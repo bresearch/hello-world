@@ -1,0 +1,97 @@
+    1  ls
+    2  pwd
+    3  cd documents
+    4  dir 
+    5  git status
+    6  cd "Visual Studio 2017"
+    7  dir
+    8  cd Projects
+    9  dir
+   10  cd net
+   11  dir
+   12  git status
+   13  git log
+   14  dir
+   15  git lsit
+   16  git list
+   17  git rev-list
+   18  git log
+   19  git status
+   20  ls
+   21  git status
+   22  git push
+   23  git remote add test https://github/bresearch/hello-world
+   24  git push test
+   25  git push origin master
+   26  git help push 
+   27  git push https://github/bresearch/hello-world
+   28  git push bresearch
+   29  git config remote.origin.url
+   30  git push
+   31  git log
+   32  git remote add origin-push $(git config remote.origin.url)
+   33  git branches
+   34  git branch
+   35  git fetch
+   36  git fetch hello-world
+   37  git fetch https://github/bresearch/hello-world
+   38  git fetch https://github.com/bresearch/hello-world
+   39  git diff
+   40  git diff masterr
+   41  git diff master
+   42  git branch
+   43  git log
+   44  git push https://github.com/bresearch/hello-world
+   45  dir
+   46  git pull
+   47  git fetch
+   48  git merge
+   49  git log
+   50  git show
+   51  git status
+   52  git status
+   53  git pull origin master
+   54  git pull origin master --force
+   55  git init --help
+   56  git status
+   57  git commit -m "net added"
+   58  git add server
+   59  git status
+   60  git commit -m "added server project"
+   61  git diff 
+   62  git push 
+   63  git status
+   64  git pull 
+   65  git staytus
+   66  git status
+   67  exit
+   68  ls
+   69  ls
+   70  cd newrepo
+   71  die
+   72  ls
+   73  cd hello-world
+   74  man
+   75  pwd
+   76  date
+   77  cal
+   78  dir
+   79  ls
+   80  cat test.cpp
+   81  ls
+   82  pwd
+   83  dir
+   84  ls
+   85  ls -l
+   86  dir 
+   87  ls
+   88  vim test.cpp
+   89  git status
+   90  ls
+   91  less
+   92  less test.cpp
+   93  ls
+   94  ls -lt
+   95  ls -lt --reverse
+   96  history
+   97  history > histlist
